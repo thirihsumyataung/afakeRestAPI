@@ -1,0 +1,16 @@
+{
+  "name": "fakeapi-json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch restAPI.json",
+    "json:server:remote": "json-server http://jsonplaceholder.typicode.com/db"
+
+  },
+  "author": "Thiri Hsu Myat Aung",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}

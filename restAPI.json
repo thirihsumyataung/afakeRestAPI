@@ -1,0 +1,107 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Mono",
+      "lastName": "Poly",
+      "username": "monolay",
+      "email": "monospace@gmail.com",
+      "password": "GjkjaHUHSUGAaw1234",
+      "company_id": 1
+    },
+    {
+      "id": 2,
+      "firstName": "Daisy",
+      "lastName": "Lynn",
+      "username": "dLynn",
+      "email": "dLynn@gmail.com",
+      "password": "jajefoij13241",
+      "company_id": 3
+    },
+    {
+      "id": 3,
+      "firstName": "Tun",
+      "lastName": "Lui",
+      "username": "davidLui",
+      "email": "davidLui@gmail.com",
+      "password": "jksafoeij72713417",
+      "company_id": 4
+    },
+    {
+      "id": 4,
+      "firstName": "Mommy",
+      "lastName": "Pan",
+      "username": "panDavi",
+      "email": "davi@gmail.com",
+      "password": "davi8341943491",
+      "company_id": 2
+    },
+    {
+      "id": 5,
+      "firstName": "Mark",
+      "lastName": "Pan",
+      "username": "Pancillo",
+      "email": "pancillo@gmail.com",
+      "password": "pancillo3417",
+      "company_id": 1
+    },
+    {
+      "id": 9,
+      "firstName": "Ma",
+      "lastName": "Shane",
+      "username": "daviShane",
+      "email": "davidShane@gmail.com",
+      "password": "hjdadfjksafoeij72713417",
+      "company_id": 3
+    },
+    {
+      "id": 6,
+      "firstName": "Prin",
+      "lastName": "Suparat",
+      "username": "Prin",
+      "email": "markprin@gmail.com",
+      "password": "prinja3417",
+      "company_id": 4
+    },
+    {
+      "id": 7,
+      "firstName": "Kimmy",
+      "lastName": "Kimberley",
+      "username": "mkim",
+      "email": "mkimberley@gmail.com",
+      "password": "mkim3417",
+      "company_id": 2
+    },
+    {
+      "id": 8,
+      "firstName": "Mario",
+      "lastName": "Murer",
+      "username": "mushuu",
+      "email": "mariomurar@gmail.com",
+      "password": "mariomurer3417",
+      "company_id": 1
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "description": "Apple Inc. designs, manufactures and markets mobile communication and media devices, personal computers and portable digital music players. The Company sells a range of related software, services, accessories, networking solutions, and third-party digital content and applications"
+    },
+    {
+      "id": 2,
+      "name": "Samsaung",
+      "description": "Samsung Inc. specializes in the production of a wide variety of consumer and industry electronics, including appliances, digital media devices, semiconductors, memory chips, and integrated systems."
+    },
+    {
+      "id": 3,
+      "name": "Amazon",
+      "description": "Amazon.com, Inc. engages in the provision of online retail shopping services. It operates through the following business segments: North America, International, and Amazon Web Services (AWS). The North America segment includes retail sales of consumer products and subscriptions through North America-focused websites such as www.amazon.com and www.amazon.ca. The International segment offers retail sales of consumer products and subscriptions through internationally-focused websites. The Amazon Web Services segment involves in the global sales of compute, storage, database, and AWS service offerings for start-ups, enterprises, government agencies, and academic institutions. The company was founded by Jeffrey P. Bezos in July 1994 and is headquartered in Seattle, WA."
+    },
+    {
+      "id": 4,
+      "name": "Dyson",
+      "description": "Dyson, Inc. manufactures vacuum cleaners and accessories. The Company offers upright canister vacuums, floor cleaners, floor cleaning tools, fans, heaters, purifiers, hair care products, and spare parts. Dyson serves customers worldwide."
+    }
+  ]
+}
