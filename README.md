@@ -11,3 +11,21 @@ Step 2; `sudo lsof -i :3000` Check PID here
 Step 3: `kill -9 1382`  ----> [ kill -9 PID ]
 
 
+### 
+
+Step 1: `npm install -g json-server`
+
+Step 2: `npm init`
+
+STep 3: `Create a Json File` 
+
+Step 4: `npm install --save json-server` 
+
+Step 5: `"script" : { "json:server": "json-server --watch database.json"}` Your Json File name here 
+
+Step 6: `npm run json:server`
+
+Step 7: `localhost:3000`
+
+### CRUD : PostMan 
+
