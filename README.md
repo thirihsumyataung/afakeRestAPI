@@ -35,6 +35,6 @@ Step 7: `localhost:3000`
 
 `Post :http://localhost:3000/users` ----> You can add more data in your jSON file 
 
-<span style="background-color: #FFFF00">Marked text</span>
+
 
 
