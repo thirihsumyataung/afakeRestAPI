@@ -11,7 +11,7 @@ Step 2; `sudo lsof -i :3000` Check PID here
 Step 3: `kill -9 1382`  ----> [ kill -9 PID ]
 
 
-### 
+### How to start a FAKE API JSON File 
 
 Step 1: `npm install -g json-server`
 
@@ -27,5 +27,13 @@ Step 6: `npm run json:server`
 
 Step 7: `localhost:3000`
 
-### CRUD : PostMan 
+### CRUD : PostMan  
+
+`GET: http://localhost:3000/users` ---> You can access the data in your json file 
+
+`Patch: http://localhost:3000/users/3`----> 3 stands for the id of the data you want to update , and you can update their information. 
+
+`Post :http://localhost:3000/users` ----> You can add more data in your jSON file 
+
+
 
